@@ -1,0 +1,37 @@
+.container{
+    width: 1200px;
+    height: 10%;
+    text-align: center;
+}
+header{
+    margin-bottom: 1rem;
+}
+body{
+    padding: 2rem;
+    background-image: linear-gradient(to bottom, #004f8b, #004a83, #00467b, #004173, #003d6b);
+    color: white;
+}
+#nueva-tarea{
+    text-align: center;
+}
+ul{
+    background-color: #85C67E;
+    padding: 2rem;
+}
+
+li{
+    background-image: linear-gradient(to left, #c20000, #c70f0d, #cb1a18, #cf2221, #d32a2a);
+    margin-top: 1rem;
+    padding: 2rem;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+button{
+    
+}
+
+#editar{
+    display: inline;
+    margin-left: 1rem;
+}
